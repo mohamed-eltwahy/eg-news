@@ -1,0 +1,2 @@
+String headlines_url='http://newsapi.org/v2/top-headlines?country=eg&apiKey=b1dd8959e1094a948f41dd5957c7a4d6';
+String sports='http://newsapi.org/v2/top-headlines?country=eg&category=sports&apiKey=b1dd8959e1094a948f41dd5957c7a4d6';
